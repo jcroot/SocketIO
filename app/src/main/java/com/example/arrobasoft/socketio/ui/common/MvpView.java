@@ -1,0 +1,9 @@
+package com.example.arrobasoft.socketio.ui.common;
+
+/**
+ * Created by arrobasoft on 1/25/17.
+ */
+
+public interface MvpView {
+    void setProgressIndicator(boolean active);
+}
